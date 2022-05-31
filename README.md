@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently working on some business projects that may can have an appect to our future.
 
 <!--
 **Oli7000/Oli7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
